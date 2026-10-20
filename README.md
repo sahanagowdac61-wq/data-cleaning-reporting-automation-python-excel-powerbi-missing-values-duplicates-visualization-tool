@@ -1,0 +1,2 @@
+# data-cleaning-reporting-automation-python-excel-powerbi-missing-values-duplicates-visualization-tool
+Develop a Data Cleaning and Reporting Automation project using Python, Excel . Automate data preprocessing by removing duplicates,  correcting inconsistent records. Generate accurate reports, interactive dashboards, and visual summaries to improve data quality, reduce manual effort, and increase reporting efficiency for business insights.
